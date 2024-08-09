@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rashamvir
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Big Data Analytics
 - 💞️ I’m looking to collaborate on Research Projects
 - 📫 Contact Me: rasham0027@gmail.com
