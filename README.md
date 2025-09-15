@@ -26,6 +26,6 @@ My academic and personal projects have given me a solid foundation in the big da
 
 ### 🤝 Let's Connect
 
-* **LinkedIn:** [www.linkedin.com/in/rashamvir-kaur-grang]
-* **Email:** [rasham0027@gmail.com]
-* **Portfolio:** []
+* **LinkedIn:** www.linkedin.com/in/rashamvir-kaur-grang 
+* **Email:** rasham0027@gmail.com
+* **Portfolio:** 
