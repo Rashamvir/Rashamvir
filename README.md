@@ -1,6 +1,10 @@
 ### Hi there, I'm Rashamvir!
 
-A computer science student specialising in **Big Data Analytics** at **Chandigarh University**. I'm passionate about transforming large, complex datasets into actionable insights and building intelligent systems to solve real-world problems.
+I’m a Computer Science Engineering student specialising in **Big Data Analytics**, with a strong interest in **Data Science, Machine Learning, and AI-driven systems**.
+
+I enjoy working on real-world, problem-solving projects that combine data, logic, and scalable systems. Over time, I’ve gained hands-on experience through internships, academic projects, and self-driven learning, especially in analytics, databases, and AI applications.
+
+Currently, I’m focused on strengthening my skills in **data-driven decision-making, machine learning models, and full-stack project deployment**, while preparing for competitive exams and industry roles.
 
 ---
 
@@ -8,11 +12,11 @@ A computer science student specialising in **Big Data Analytics** at **Chandigar
 
 My academic and personal projects have given me a solid foundation in the big data ecosystem.
 
-* **Programming Languages:** Python, R, SQL
-* **Big Data & Analytics:** Apache Spark, Hadoop, Kafka, Pandas, NumPy
-* **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+* **Programming Languages:** Python, SQL, C/C++
+* **Data Science & Analytics:** Data Cleaning & Preprocessing, Exploratory Data Analysis, Machine Learning, Model Evaluation & Feature Engineering
+* **AI/ML:** Natural Language Processing, Deep Learning, Explainable AI, Knowledge Graphs & Graph-based Reasoning
 * **Data Visualization:** Matplotlib, Seaborn, Tableau
-* **Databases:** MySQL, MongoDB
+* **Databases:** MySQL, Basic knowledge of Big Data concepts, Data Warehousing fundamentals
 
 ---
 
