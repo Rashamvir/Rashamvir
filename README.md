@@ -1,35 +1,104 @@
-### Hi there, I'm Rashamvir!
+<div align="center">
 
-I’m a Computer Science Engineering student specialising in **Big Data Analytics**, with a strong interest in **Data Science, Machine Learning, and AI-driven systems**.
+# Hi 👋, I’m Rashamvir  
+### Computer Science Engineer | Big Data Analytics | Data Science & AI Enthusiast  
 
-I enjoy working on real-world, problem-solving projects that combine data, logic, and scalable systems. Over time, I’ve gained hands-on experience through internships, academic projects, and self-driven learning, especially in analytics, databases, and AI applications.
-
-Currently, I’m focused on strengthening my skills in **data-driven decision-making, machine learning models, and full-stack project deployment**, while preparing for competitive exams and industry roles.
-
----
-
-### What I'm Learning & My Skills
-
-My academic and personal projects have given me a solid foundation in the big data ecosystem.
-
-* **Programming Languages:** Python, SQL, C/C++
-* **Data Science & Analytics:** Data Cleaning & Preprocessing, Exploratory Data Analysis, Machine Learning, Model Evaluation & Feature Engineering
-* **AI/ML:** Natural Language Processing, Deep Learning, Explainable AI, Knowledge Graphs & Graph-based Reasoning
-* **Data Visualization:** Matplotlib, Seaborn, Tableau
-* **Databases:** MySQL, Basic knowledge of Big Data concepts, Data Warehousing fundamentals
+</div>
 
 ---
 
-### Featured Projects
+## 🚀 About Me
 
-* **AI-Powered Predictive Analytics for Mental Health:** Developed a predictive model to identify early mental health risks in university students using machine learning and historical data.
-* **Credit Card Fraud Detection:** Built a fraud detection system using machine learning algorithms to identify and flag fraudulent credit card transactions in real-time.
-* **Crop Yield Prediction:** Created a model that predicts crop yields based on historical climate data, soil types, and farming practices.
+I’m a **Computer Science Engineering student specializing in Big Data Analytics**, passionate about building **data-driven, AI-powered solutions** for real-world problems.
+
+I enjoy working at the intersection of **Data Science, Machine Learning, NLP, and scalable systems**, and I’ve gained hands-on experience through internships, academic research projects, and independent learning.
+
+Currently, I’m sharpening my skills in **machine learning, explainable AI, and Data Analytics**, while preparing for competitive exams and industry roles.
 
 ---
 
-### Let's Connect
+## 🛠️ Tech Stack & Skills
 
-* **LinkedIn:** www.linkedin.com/in/rashamvir-kaur-grang 
-* **Email:** rasham0027@gmail.com
-* **Portfolio:** 
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-blue?style=for-the-badge)
+
+- Data Cleaning & EDA  
+- Feature Engineering  
+- Supervised & Unsupervised Machine Learning  
+- Model Evaluation & Optimization  
+
+---
+
+### 🤖 AI, NLP & Advanced Tools
+![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-purple?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-XAI-green?style=for-the-badge)
+
+- LSTM & BERT basics  
+- Explainable AI (XAI)  
+- Knowledge Graphs & GraphRAG  
+
+---
+
+### 🌐 Web Development & Deployment
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboarding-FF4B4B?style=for-the-badge&logo=streamlit)
+
+- Basic Frontend using HTML, CSS, and JavaScript  
+- Streamlit Dashboards  
+
+---
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📌 Projects
+
+### 🔹 GraphRAG for Legal Contracts
+- Research project using Knowledge Graphs for legal AI  
+- Compared Vector-RAG vs GraphRAG  
+- Improved multi-hop reasoning and reduced hallucinations
+
+### 🔹 Credit Card Fraud Detection
+- Machine learning-based fraud detection system  
+- Handled imbalanced datasets and feature selection  
+- Evaluated using precision, recall, and F1-score  
+
+### 🔹 Crop Yield Prediction
+- Analyzed historical agricultural datasets using EDA techniques.
+- Built and evaluated regression-based ML models to predict crop yield outcomes.
+- Derived insights to support data-driven decision-making in agriculture.
+  
+### 🔹 Personal Portfolio Website
+- Built using HTML, CSS, and JavaScript  
+- Deployed via GitHub Pages  
+- Showcases projects, skills, and certifications  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/rashamvir-kaur-grang
+- 📧 Email: rasham0027@gmail.com
+
+---
+
+### ⭐ Fun Fact
+I love turning **raw data into insights** and **ideas into deployable systems**.
