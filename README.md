@@ -2,7 +2,7 @@
 
 # Hi 👋, I’m Rashamvir  
 ### Computer Science Engineer | Big Data Analytics | Data Science & AI Enthusiast  
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/16K0wpsqX8t-1xKW0LE7DtW-Y-tTO1krI/view?usp=sharing)
+📄 **Resume:** [View My Resume](https://flowcv.com/resume/imk13q76lj8j)
 </div>
 
 ---
